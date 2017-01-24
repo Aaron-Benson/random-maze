@@ -19,11 +19,17 @@ C# scripts can be found in the Assets folder of the repository.
 ## Controls
 
 W - Move up
+
 A - Move left
+
 S - Move down
+
 D - Move right
+
 U - Toggle rotation of maze
+
 R - Reset game and generate a new maze
+
 Escape - Quit game
 
 ## Credits
