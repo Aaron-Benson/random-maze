@@ -5,12 +5,12 @@
 This program will generate a random solvable 9x9 maze that you must navigate. It also has the ability to rotate! 
 C# scripts can be found in the Assets folder of the repository.
 
-## Running (Windows only: if on another system, follow the installation instructions below)
+## Running (Windows only, install if on another system)
 
 1. Clone the repository locally
 2. Execute either random-maze-win32.exe or random-maze-win64.exe according to your system
 
-## Installation (Unity)
+## Installation (Unity or Windows Executable)
 
 1. Clone the repository locally
 2. In Unity, select open project and navigate to the root folder of the repository (random-maze)
