@@ -6,39 +6,45 @@ Direct3D:
     Vendor:   NVIDIA
     VRAM:     4060 MB
 Begin MonoManager ReloadAssembly
-Platform assembly: D:\Users\Aaron\Documents\random-maze\random-maze-64_Data\Managed\UnityEngine.dll (this message is harmless)
-Loading D:\Users\Aaron\Documents\random-maze\random-maze-64_Data\Managed\UnityEngine.dll into Unity Child Domain
-Platform assembly: D:\Users\Aaron\Documents\random-maze\random-maze-64_Data\Managed\Assembly-CSharp.dll (this message is harmless)
-Loading D:\Users\Aaron\Documents\random-maze\random-maze-64_Data\Managed\Assembly-CSharp.dll into Unity Child Domain
-Platform assembly: D:\Users\Aaron\Documents\random-maze\random-maze-64_Data\Managed\UnityEngine.UI.dll (this message is harmless)
-Loading D:\Users\Aaron\Documents\random-maze\random-maze-64_Data\Managed\UnityEngine.UI.dll into Unity Child Domain
-Platform assembly: D:\Users\Aaron\Documents\random-maze\random-maze-64_Data\Managed\UnityEngine.Networking.dll (this message is harmless)
-Loading D:\Users\Aaron\Documents\random-maze\random-maze-64_Data\Managed\UnityEngine.Networking.dll into Unity Child Domain
-- Completed reload, in  0.102 seconds
-Platform assembly: D:\Users\Aaron\Documents\random-maze\random-maze-64_Data\Managed\System.Core.dll (this message is harmless)
-Platform assembly: D:\Users\Aaron\Documents\random-maze\random-maze-64_Data\Managed\System.dll (this message is harmless)
+Platform assembly: D:\Users\Aaron\Documents\GitHub\random-maze\random-maze-win64_Data\Managed\UnityEngine.dll (this message is harmless)
+Loading D:\Users\Aaron\Documents\GitHub\random-maze\random-maze-win64_Data\Managed\UnityEngine.dll into Unity Child Domain
+Platform assembly: D:\Users\Aaron\Documents\GitHub\random-maze\random-maze-win64_Data\Managed\Assembly-CSharp.dll (this message is harmless)
+Loading D:\Users\Aaron\Documents\GitHub\random-maze\random-maze-win64_Data\Managed\Assembly-CSharp.dll into Unity Child Domain
+Platform assembly: D:\Users\Aaron\Documents\GitHub\random-maze\random-maze-win64_Data\Managed\UnityEngine.UI.dll (this message is harmless)
+Loading D:\Users\Aaron\Documents\GitHub\random-maze\random-maze-win64_Data\Managed\UnityEngine.UI.dll into Unity Child Domain
+Platform assembly: D:\Users\Aaron\Documents\GitHub\random-maze\random-maze-win64_Data\Managed\UnityEngine.Networking.dll (this message is harmless)
+Loading D:\Users\Aaron\Documents\GitHub\random-maze\random-maze-win64_Data\Managed\UnityEngine.Networking.dll into Unity Child Domain
+- Completed reload, in  0.041 seconds
+Platform assembly: D:\Users\Aaron\Documents\GitHub\random-maze\random-maze-win64_Data\Managed\System.Core.dll (this message is harmless)
+Platform assembly: D:\Users\Aaron\Documents\GitHub\random-maze\random-maze-win64_Data\Managed\System.dll (this message is harmless)
 desktop: 1920x1080 59Hz; virtual: 3200x1080 at 0,0
 <RI> Initializing input.
 <RI> Input initialized.
 <RI> Initialized touch support.
-UnloadTime: 0.783152 ms
+UnloadTime: 0.765424 ms
 Setting up 1 worker threads for Enlighten.
-  Thread -> id: 384 -> priority: 1 
+  Thread -> id: 33e0 -> priority: 1 
 Unloading 5 Unused Serialized files (Serialized files now loaded: 0)
-UnloadTime: 4.792531 ms
+UnloadTime: 1.196500 ms
 
 Unloading 521 unused Assets to reduce memory usage. Loaded Objects now: 248.
-Total: 0.236376 ms (FindLiveObjects: 0.055983 ms CreateObjectMapping: 0.020216 ms MarkObjects: 0.099526 ms  DeleteObjects: 0.059716 ms)
+Total: 0.235443 ms (FindLiveObjects: 0.047586 ms CreateObjectMapping: 0.024259 ms MarkObjects: 0.098282 ms  DeleteObjects: 0.055050 ms)
 
 Unloading 4 Unused Serialized files (Serialized files now loaded: 0)
-UnloadTime: 2.667321 ms
+UnloadTime: 3.113325 ms
 
 Unloading 520 unused Assets to reduce memory usage. Loaded Objects now: 248.
-Total: 0.220825 ms (FindLiveObjects: 0.031413 ms CreateObjectMapping: 0.037633 ms MarkObjects: 0.089885 ms  DeleteObjects: 0.061271 ms)
+Total: 0.179459 ms (FindLiveObjects: 0.030791 ms CreateObjectMapping: 0.014306 ms MarkObjects: 0.088952 ms  DeleteObjects: 0.044476 ms)
 
 Unloading 4 Unused Serialized files (Serialized files now loaded: 0)
-UnloadTime: 1.834094 ms
+UnloadTime: 10.812354 ms
 
 Unloading 520 unused Assets to reduce memory usage. Loaded Objects now: 248.
-Total: 0.236998 ms (FindLiveObjects: 0.045409 ms CreateObjectMapping: 0.017417 ms MarkObjects: 0.120676 ms  DeleteObjects: 0.052562 ms)
+Total: 0.251927 ms (FindLiveObjects: 0.055050 ms CreateObjectMapping: 0.021460 ms MarkObjects: 0.111967 ms  DeleteObjects: 0.062826 ms)
+
+Unloading 4 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 3.331041 ms
+
+Unloading 520 unused Assets to reduce memory usage. Loaded Objects now: 248.
+Total: 0.231711 ms (FindLiveObjects: 0.047586 ms CreateObjectMapping: 0.023015 ms MarkObjects: 0.094861 ms  DeleteObjects: 0.065936 ms)
 
